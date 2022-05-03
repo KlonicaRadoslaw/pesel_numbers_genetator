@@ -1,3 +1,3 @@
 # pesel_numbers_genetator
 
-Generate all PESEL number from 1900 to 2000
+Generate all PESEL numbers from 1900 to 2000
